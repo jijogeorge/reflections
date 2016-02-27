@@ -1,3 +1,10 @@
 whe would you want to create a remote repository rather than keepig it local??
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+ If I am about to go without Internet access for a while, for example to work
+    on a plane, I can update my local copy before I leave.  I can do this even
+    if I'm not ready to merge those changes into my own branches yet.  Then if I
+    want, I can perform the merge while offline, or I need to know what the
+    remote version is at some point, I have an easy way to access it.
