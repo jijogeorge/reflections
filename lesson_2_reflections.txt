@@ -1,0 +1,27 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+wn initialize it will create  a new repository with meta data in .git directory.
+
+
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+staging area is like a temporary platform which helps to bundle the recent changes. 
+How can you use the staging area to make sure you have one commit per logical change?
+using git diff --staged
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+branches are realy helpful wn multiple people work on same project or different versions of the same project
+
+How do the diagrams help you visualize the branch structure?
+
+diagrams give an outline of the entire commit history at a glance!!
+nice to have a feature like that
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+automatic merging can be useful to detect the changes and if there are some conflicts correct it manually seems to be.. so far a good strategy
+repeted question
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+automatic merging can be useful to detect the changes and if there are some conflicts correct it manually seems to be.. so far a good strategy
